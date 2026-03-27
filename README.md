@@ -11,7 +11,7 @@
 
 ## Project
 - wearebooks (팀 프로젝트)
-  비회원/회원 접근 제어와 사용자 흐름 기반 UI를 구현한 도서 구매 사이트
+비회원/회원 접근 제어와 사용자 흐름 기반 UI를 구현한 도서 구매 사이트
   
 <!--
 **mingyeong-seo/mingyeong-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
