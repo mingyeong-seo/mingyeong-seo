@@ -1,5 +1,5 @@
 # 서민경 | mingyeong-seo
-사용자 행동 흐름과 화면 변화를 함께 고민하는 프론트엔드 개발자입니다.
+사용자 흐름을 고려해 UI와 화면 동작을 구현하는 프론트엔드 개발자입니다.
 
 ## Tech
 - Frontend
@@ -10,8 +10,8 @@
 - Tools: Git, GitHub
 
 ## Project
-- WeAreBooks (팀 프로젝트)
-  비회원/회원 접근 제어와 장바구니 기능을 구현하고, 사용자 행동 흐름을 고려한 화면 구성을 적용한 도서 구매 사이트 팀 프로젝트
+- wearebooks (팀 프로젝트)
+  비회원/회원 접근 제어와 사용자 흐름 기반 UI를 구현한 도서 구매 사이트
   
 <!--
 **mingyeong-seo/mingyeong-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
