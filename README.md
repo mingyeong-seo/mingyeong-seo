@@ -15,10 +15,27 @@
 
 ## 👋 About Me
 
+🎓 한림대학교
+- 빅데이터 전공
+- 콘텐츠IT 복수전공
+
+💡 Interests
 - 사용자 흐름 기반 UI 설계
 - React 기반 웹 서비스 개발
 - Lighthouse 기반 성능 개선
 - 사용자 조사 기반 MVP 설계
+
+💼 Experience
+
+💼 Experience
+
+- 멋쟁이사자처럼 14기 (2026.3. ~ )
+- Java 풀스택 웹&앱 개발자 취업캠프 (2025.12. ~ 2026.7.)
+- 청소년 디지털 문제 해결 프로젝트 대학생 멘토 (2024.7. ~ 2024.11.)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mingyeong-seo/mingyeong-seo/main/assets/digital-mentor.jpg" width="320"/>
+</p>
 
 ---
 
