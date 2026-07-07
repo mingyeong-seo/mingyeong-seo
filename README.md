@@ -1,29 +1,20 @@
-# 서민경 | mingyeong-seo
-사용자 흐름을 고려해 UI와 화면 동작을 구현하는 프론트엔드 개발자입니다.
-
-## Tech
-- Frontend
-  - HTML, CSS를 활용한 기본적인 화면 구성
-  - JavaScript를 통한 이벤트 처리 및 데이터 흐름 이해
-  - React 기반 컴포넌트 구조 및 상태 관리 학습 중
-- Backend: Java, Spring Boot, JPA (기본적인 CRUD 및 API 이해)
-- Tools: Git, GitHub
-
-## Project
-- wearebooks (팀 프로젝트)
-비회원/회원 접근 제어와 사용자 흐름 기반 UI를 구현한 도서 구매 사이트
-  
-<!--
-**mingyeong-seo/mingyeong-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:b15da2,100:c5b8f4&height=120&text=사용자%20경험을%20고민하는%20프론트엔드%20개발자👩‍💻&animation=fadeIn&fontColor=262626&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
+         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=mingyeong-seo&bg_color=60,c9a6c9,c144ee&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyeong-seo&layout=compact&bg_color=60,c9a6c9,c144ee&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
