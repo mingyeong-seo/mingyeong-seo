@@ -68,18 +68,18 @@
 
 ---
 
-### 👨‍👩‍👧 이어봄 (ieobom)
+### 👨‍👩‍👧 ieobom (이어봄)
 🔗 [GitHub](https://github.com/mingyeong-seo/ieobom) | 📝 [Notion](https://app.notion.com/p/AI-f85b22d3598183d5904b01cb35969195?source=copy_link)
 
 > 고령 부모님의 하루를 AI가 이야기 형태로 요약하여 보호자에게 전달하는 가족 연결 서비스
 
 - 41명 사용자 조사 기반 MVP 설계
-- 부모·보호자 사용자 흐름 
+- 부모·보호자 사용자 흐름
 - FastAPI 연동
 
 ---
 
-### 📚 위아북스 (wearebooks)
+### 📚 wearebooks (위아북스)
 🔗 [GitHub](https://github.com/mingyeong-seo/wearebooks) | 📝 [Notion](https://app.notion.com/p/398b22d359818383b19881bc4b36ca81?source=copy_link)
 
 > 검색·카테고리 탐색과 회원·비회원 사용자 흐름을 설계한 도서 구매 플랫폼
